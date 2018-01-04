@@ -68,6 +68,9 @@
 
 				loss++
 				console.log("losses" + loss)
+				gleft += 9;
+				
+
 
 				}
 
